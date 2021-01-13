@@ -2,6 +2,6 @@
 
 1- [Web Application Technologies and Django](https://www.coursera.org/learn/django-database-web-apps)
 #
-some output, please don't change anything I'm currently working on it: 
-[Django Administration](http://moinshawon.pythonanywhere.com/admin/)
+some output, please don't change anything I'm currently working on it: \
+[Django Administration](http://moinshawon.pythonanywhere.com/admin/)\
 [Req polls](http://moinshawon.pythonanywhere.com/polls/3/)
