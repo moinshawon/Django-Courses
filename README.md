@@ -1,6 +1,6 @@
 ## [Django For Everyboday Specialization](https://www.coursera.org/specializations/django):
 
-1- [Web Application Technologies and Django](https://www.coursera.org/learn/django-database-web-apps)
+1- [Web Application Technologies and Django](https://www.coursera.org/learn/django-database-web-apps) \
 2- [Building Web Applications in Django](https://www.coursera.org/learn/django-build-web-apps)
 #
 Check some outputs, please don't change anything I'm currently working on it: \
