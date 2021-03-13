@@ -4,7 +4,7 @@
 2- [Building Web Applications in Django](https://www.coursera.org/learn/django-build-web-apps)\
 3- [Django Features Libraries](https://www.coursera.org/learn/django-features-libraries)
 #
-Check some outputs, please don't change anything. I'm currently working on it: \
+Check some outputs: \
 [Django Administration](http://moinshawon.pythonanywhere.com/admin/)\
 [Req polls](http://moinshawon.pythonanywhere.com/polls/4)\
 [Ads](http://moinshawon.pythonanywhere.com/)
